@@ -34,6 +34,8 @@ This version of The Great Suspender is not available on the Chrome Web Store.
 
 ### You should install this extension from source
 
+Be sure to unsuspend all suspended tabs before removing any other version of the extension or they will disappear forever!
+
 1. Download the **[latest available version](https://github.com/aciidic/thegreatsuspender/releases)** and unarchive to your preferred location (whichever suits you).
 2. Using **Google Chrome** browser, navigate to chrome://extensions/ and enable "Developer mode" in the upper right corner.
 3. Click on "Load Unpacked" in top-left corner and select the src FOLDER from extracted data > click Open Folder
